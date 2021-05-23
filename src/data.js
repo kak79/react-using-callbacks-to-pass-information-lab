@@ -29,7 +29,7 @@
 //   console.log('result',x);
 // })
 
-var learnSymbol = [
+let learnSymbol = [
   [
     '#FFF',    '#FFF',    '#FFF',    '#FFF',
     '#FFF',    '#FFF',    '#FFF',    '#FFF',
